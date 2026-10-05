@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 220" role="img" aria-labelledby="title desc">
+  <title id="title">Predicting decisions for similar and dissimilar others</title>
+  <desc id="desc">A person's similarity to another informs a prediction, with neural activity tracked around the predicted decision.</desc>
+  <rect width="760" height="220" rx="18" fill="#173b35"/>
+  <text x="28" y="31" fill="#dff276" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2">PREDICTING ANOTHER PERSON'S DECISION</text>
+  <g font-family="Arial,sans-serif" text-anchor="middle">
+    <circle cx="105" cy="104" r="38" fill="#78b9ab"/><circle cx="105" cy="104" r="13" fill="#173b35"/><text x="105" y="161" fill="#f7f3e9" font-size="12">SELF</text>
+    <circle cx="220" cy="104" r="38" fill="#ee795c"/><circle cx="220" cy="104" r="13" fill="#173b35"/><text x="220" y="161" fill="#f7f3e9" font-size="12">OTHER</text>
+    <path d="M144 98h35m-8-6 8 6-8 6" fill="none" stroke="#dff276" stroke-width="2"/><rect x="282" y="69" width="173" height="70" rx="14" fill="#dff276"/><text x="368" y="98" fill="#173b35" font-size="14" font-weight="700">SIMILARITY</text><text x="368" y="119" fill="#28554c" font-size="12">similar / dissimilar</text>
+    <path d="M458 104h38m-8-6 8 6-8 6" fill="none" stroke="#dff276" stroke-width="2"/><rect x="502" y="69" width="108" height="70" rx="14" fill="#f7f3e9"/><text x="556" y="98" fill="#173b35" font-size="13" font-weight="700">PREDICT</text><text x="556" y="119" fill="#54726a" font-size="12">choice</text>
+    <path d="M613 104h34m-8-6 8 6-8 6" fill="none" stroke="#dff276" stroke-width="2"/><path d="M660 124c12 0 12-41 24-41s12 50 24 50 12-29 24-29" fill="none" stroke="#78b9ab" stroke-width="3"/><text x="695" y="161" fill="#c8e1d6" font-size="11">neural time course</text>
+  </g>
+</svg>

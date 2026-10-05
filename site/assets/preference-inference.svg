@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 220" role="img" aria-labelledby="title desc">
+  <title id="title">Preference learning from repeated bargaining</title>
+  <desc id="desc">Offers and choices across rounds combine with response time and gaze to update a preference estimate.</desc>
+  <rect width="760" height="220" rx="18" fill="#173b35"/>
+  <text x="28" y="31" fill="#dff276" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2">REPEATED INTERACTION</text>
+  <g font-family="Arial,sans-serif" font-size="12" text-anchor="middle">
+    <g fill="#f7f3e9"><rect x="28" y="57" width="112" height="42" rx="8"/><rect x="158" y="57" width="112" height="42" rx="8"/><rect x="288" y="57" width="112" height="42" rx="8"/></g>
+    <g fill="#173b35"><text x="84" y="75">OFFER 01</text><text x="84" y="91">Seller proposes</text><text x="214" y="75">CHOICE 01</text><text x="214" y="91">Buyer responds</text><text x="344" y="75">OFFER 02</text><text x="344" y="91">Seller adapts</text></g>
+    <g stroke="#dff276" stroke-width="2" fill="none"><path d="M141 78h14m-5-5 5 5-5 5"/><path d="M271 78h14m-5-5 5 5-5 5"/><path d="M401 78h36v62H421"/><path d="M421 140h-12m5-5-5 5 5 5"/></g>
+    <rect x="288" y="119" width="112" height="42" rx="8" fill="#ee795c"/><text x="344" y="137" fill="#173b35">CHOICE 02</text><text x="344" y="153" fill="#173b35">Buyer responds</text>
+    <rect x="28" y="119" width="238" height="42" rx="8" fill="#28554c" stroke="#78b9ab"/><text x="147" y="137" fill="#fff9eb">PROCESS CUES</text><text x="147" y="153" fill="#c8e1d6">response time · gaze</text>
+    <path d="M267 140h17m-5-5 5 5-5 5" stroke="#dff276" stroke-width="2" fill="none"/>
+    <rect x="456" y="101" width="266" height="72" rx="12" fill="#dff276"/><text x="589" y="128" fill="#173b35" font-size="14" font-weight="700">UPDATED PREFERENCE</text><text x="589" y="151" fill="#28554c">attribute-by-attribute estimate</text>
+    <path d="M400 140h53" stroke="#dff276" stroke-width="2"/><path d="m447 135 6 5-6 5" fill="none" stroke="#dff276" stroke-width="2"/>
+  </g>
+  <circle cx="704" cy="33" r="4" fill="#ee795c"/><circle cx="720" cy="33" r="4" fill="#78b9ab"/>
+</svg>

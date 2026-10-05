@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 220" role="img" aria-labelledby="title desc">
+  <title id="title">Protein side-chain dispersion across structure methods</title>
+  <desc id="desc">Side-chain positions in protein structures determined by cryo-electron microscopy and X-ray crystallography are compared.</desc>
+  <rect width="760" height="220" rx="18" fill="#173b35"/>
+  <text x="28" y="31" fill="#dff276" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2">STRUCTURE METHOD × SIDE-CHAIN DISPERSION</text>
+  <g font-family="Arial,sans-serif" text-anchor="middle">
+    <rect x="32" y="57" width="323" height="132" rx="14" fill="#28554c" stroke="#78b9ab"/><rect x="405" y="57" width="323" height="132" rx="14" fill="#28554c" stroke="#ee795c"/>
+    <text x="194" y="82" fill="#f7f3e9" font-size="14" font-weight="700">CRYO-EM</text><text x="566" y="82" fill="#f7f3e9" font-size="14" font-weight="700">X-RAY CRYSTALLOGRAPHY</text>
+    <path d="M77 129c18-42 34 42 52 0s34 42 52 0 34 42 52 0 34 42 52 0" fill="none" stroke="#dff276" stroke-width="5" stroke-linecap="round"/>
+    <path d="M450 129c18-42 34 42 52 0s34 42 52 0 34 42 52 0 34 42 52 0" fill="none" stroke="#dff276" stroke-width="5" stroke-linecap="round"/>
+    <g fill="#ee795c"><circle cx="161" cy="106" r="4"/><circle cx="169" cy="99" r="4"/><circle cx="177" cy="107" r="4"/><circle cx="543" cy="104" r="4"/><circle cx="551" cy="97" r="4"/><circle cx="559" cy="105" r="4"/></g>
+    <path d="M169 100v-13m-8 0h16M551 98V85m-8 0h16" stroke="#f7f3e9" stroke-width="1.5"/><text x="365" y="211" fill="#c8e1d6" font-size="11">compare coordinate dispersion around matched side-chain positions</text>
+  </g>
+</svg>
