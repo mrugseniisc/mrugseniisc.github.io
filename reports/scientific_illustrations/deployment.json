@@ -1,0 +1,73 @@
+{
+  "commit": "b7b97f1b1e118874b76a1f3cd74fa3778ca9cb08",
+  "githubRun": 37481245198,
+  "conclusion": "success",
+  "files": [
+    {
+      "path": "index.html",
+      "status": 200,
+      "sha256": "c668e11155f2cf234d10f6eb2b46018c86e9e79db86d95d5d9a0046ca31ef637",
+      "matchesLocal": true
+    },
+    {
+      "path": "research.html",
+      "status": 200,
+      "sha256": "c307ead2931f16b83d72359ee46ac0975e2dd8514e7198a03e7b4bce0597c226",
+      "matchesLocal": true
+    },
+    {
+      "path": "publications.html",
+      "status": 200,
+      "sha256": "d390a70126c336ebfda68c1697eab79dd27287e437ef554cd7678f436a3e5e0f",
+      "matchesLocal": true
+    },
+    {
+      "path": "styles.css",
+      "status": 200,
+      "sha256": "a5c7b9433288e1c84294b5ad79f563ef043f124719a41d3c2868ef4760f080e4",
+      "matchesLocal": true
+    },
+    {
+      "path": "assets/papers/llm-cues.webp",
+      "status": 200,
+      "sha256": "ed9c208738d93022297a0295f0a1884259606635325ac9fc3524f9487e506fbf",
+      "matchesLocal": true
+    },
+    {
+      "path": "assets/papers/preference-inference.webp",
+      "status": 200,
+      "sha256": "009bbe66cd1e81131fa9d04ce633db65e758211b725f0be6ac358b0987790f84",
+      "matchesLocal": true
+    },
+    {
+      "path": "assets/papers/process-models.webp",
+      "status": 200,
+      "sha256": "e7cd0878fbe8d2d170b712106a2fbaadacc6b1c5e47ca8765b808ca6f4c6539d",
+      "matchesLocal": true
+    },
+    {
+      "path": "assets/papers/protein-structures.webp",
+      "status": 200,
+      "sha256": "a7edff57f0fdd9d19368f135eaa0c74624da5426c5e695491d17de229b125697",
+      "matchesLocal": true
+    },
+    {
+      "path": "assets/papers/social-prediction.webp",
+      "status": 200,
+      "sha256": "cad024f72ddd70f739893cf44b0deb44bb828962f2833b5636bb5a0bb7a5fd67",
+      "matchesLocal": true
+    },
+    {
+      "path": "assets/papers/value-evidence.webp",
+      "status": 200,
+      "sha256": "6d4fab61e426710cf5fed8d230fd7d6e44cb1f026fb8372c960b32e595173f9a",
+      "matchesLocal": true
+    },
+    {
+      "path": "assets/papers/visual-stream.webp",
+      "status": 200,
+      "sha256": "259c6ad7127d3ccb7b531c57d9c8d871d4462a9d18f4a1736e7509259159d6a7",
+      "matchesLocal": true
+    }
+  ]
+}

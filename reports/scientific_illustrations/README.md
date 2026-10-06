@@ -23,3 +23,7 @@ Publication illustrations now occupy the full article width and follow the citat
 Preview command: `python3 -m http.server 8000 --directory site`.
 
 The affected home, research and publication pages were checked in Chromium at 320, 390 and 1440 CSS pixels. Checks cover horizontal overflow, image loading and dimensions, local links and anchors, full-size image links, and metadata. See [validation.json](validation.json). `git diff --check` passes. Source figures were reviewed again for cue definitions, cortical region names, proposal status, gamble probabilities and model-arrow direction.
+
+## Deployment
+
+GitHub Pages run `37481245198` deployed implementation commit `b7b97f1`. All eleven changed public files returned HTTP 200 and matched local SHA-256 hashes; see [deployment.json](deployment.json). The subsequent evidence commit changes reports only.

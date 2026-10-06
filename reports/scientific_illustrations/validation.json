@@ -15,24 +15,24 @@
           "loaded": true,
           "naturalWidth": 2715,
           "naturalHeight": 3023,
-          "widthAttribute": 172,
-          "heightAttribute": 215
+          "renderedWidth": 172,
+          "renderedHeight": 215
         },
         {
           "src": "assets/papers/preference-inference.webp",
           "loaded": true,
           "naturalWidth": 1536,
           "naturalHeight": 1024,
-          "widthAttribute": 282,
-          "heightAttribute": 188
+          "renderedWidth": 282,
+          "renderedHeight": 188
         },
         {
           "src": "assets/papers/process-models.webp",
           "loaded": true,
           "naturalWidth": 1536,
           "naturalHeight": 1024,
-          "widthAttribute": 282,
-          "heightAttribute": 188
+          "renderedWidth": 282,
+          "renderedHeight": 188
         }
       ],
       "fullSizeLinks": 2
@@ -49,32 +49,32 @@
           "loaded": true,
           "naturalWidth": 1536,
           "naturalHeight": 1024,
-          "widthAttribute": 282,
-          "heightAttribute": 188
+          "renderedWidth": 282,
+          "renderedHeight": 188
         },
         {
           "src": "assets/papers/llm-cues.webp",
           "loaded": true,
           "naturalWidth": 1536,
           "naturalHeight": 1024,
-          "widthAttribute": 282,
-          "heightAttribute": 188
+          "renderedWidth": 282,
+          "renderedHeight": 188
         },
         {
           "src": "assets/papers/value-evidence.webp",
           "loaded": true,
           "naturalWidth": 1536,
           "naturalHeight": 1024,
-          "widthAttribute": 282,
-          "heightAttribute": 188
+          "renderedWidth": 282,
+          "renderedHeight": 188
         },
         {
           "src": "assets/papers/social-prediction.webp",
           "loaded": true,
           "naturalWidth": 1536,
           "naturalHeight": 1024,
-          "widthAttribute": 282,
-          "heightAttribute": 188
+          "renderedWidth": 282,
+          "renderedHeight": 188
         }
       ],
       "fullSizeLinks": 8
@@ -91,56 +91,56 @@
           "loaded": true,
           "naturalWidth": 1536,
           "naturalHeight": 1024,
-          "widthAttribute": 282,
-          "heightAttribute": 188
+          "renderedWidth": 282,
+          "renderedHeight": 188
         },
         {
           "src": "assets/papers/value-evidence.webp",
           "loaded": true,
           "naturalWidth": 1536,
           "naturalHeight": 1024,
-          "widthAttribute": 282,
-          "heightAttribute": 188
+          "renderedWidth": 282,
+          "renderedHeight": 188
         },
         {
           "src": "assets/papers/preference-inference.webp",
           "loaded": true,
           "naturalWidth": 1536,
           "naturalHeight": 1024,
-          "widthAttribute": 282,
-          "heightAttribute": 188
+          "renderedWidth": 282,
+          "renderedHeight": 188
         },
         {
           "src": "assets/papers/social-prediction.webp",
           "loaded": true,
           "naturalWidth": 1536,
           "naturalHeight": 1024,
-          "widthAttribute": 282,
-          "heightAttribute": 188
+          "renderedWidth": 282,
+          "renderedHeight": 188
         },
         {
           "src": "assets/papers/process-models.webp",
           "loaded": true,
           "naturalWidth": 1536,
           "naturalHeight": 1024,
-          "widthAttribute": 282,
-          "heightAttribute": 188
+          "renderedWidth": 282,
+          "renderedHeight": 188
         },
         {
           "src": "assets/papers/visual-stream.webp",
           "loaded": true,
           "naturalWidth": 1536,
           "naturalHeight": 1024,
-          "widthAttribute": 282,
-          "heightAttribute": 188
+          "renderedWidth": 282,
+          "renderedHeight": 188
         },
         {
           "src": "assets/papers/protein-structures.webp",
           "loaded": true,
           "naturalWidth": 1536,
           "naturalHeight": 1024,
-          "widthAttribute": 282,
-          "heightAttribute": 188
+          "renderedWidth": 282,
+          "renderedHeight": 188
         }
       ],
       "fullSizeLinks": 14
@@ -157,24 +157,24 @@
           "loaded": true,
           "naturalWidth": 2715,
           "naturalHeight": 3023,
-          "widthAttribute": 221,
-          "heightAttribute": 276
+          "renderedWidth": 221,
+          "renderedHeight": 276
         },
         {
           "src": "assets/papers/preference-inference.webp",
           "loaded": true,
           "naturalWidth": 1536,
           "naturalHeight": 1024,
-          "widthAttribute": 352,
-          "heightAttribute": 235
+          "renderedWidth": 352,
+          "renderedHeight": 235
         },
         {
           "src": "assets/papers/process-models.webp",
           "loaded": true,
           "naturalWidth": 1536,
           "naturalHeight": 1024,
-          "widthAttribute": 352,
-          "heightAttribute": 235
+          "renderedWidth": 352,
+          "renderedHeight": 235
         }
       ],
       "fullSizeLinks": 2
@@ -191,32 +191,32 @@
           "loaded": true,
           "naturalWidth": 1536,
           "naturalHeight": 1024,
-          "widthAttribute": 352,
-          "heightAttribute": 235
+          "renderedWidth": 352,
+          "renderedHeight": 235
         },
         {
           "src": "assets/papers/llm-cues.webp",
           "loaded": true,
           "naturalWidth": 1536,
           "naturalHeight": 1024,
-          "widthAttribute": 352,
-          "heightAttribute": 235
+          "renderedWidth": 352,
+          "renderedHeight": 235
         },
         {
           "src": "assets/papers/value-evidence.webp",
           "loaded": true,
           "naturalWidth": 1536,
           "naturalHeight": 1024,
-          "widthAttribute": 352,
-          "heightAttribute": 235
+          "renderedWidth": 352,
+          "renderedHeight": 235
         },
         {
           "src": "assets/papers/social-prediction.webp",
           "loaded": true,
           "naturalWidth": 1536,
           "naturalHeight": 1024,
-          "widthAttribute": 352,
-          "heightAttribute": 235
+          "renderedWidth": 352,
+          "renderedHeight": 235
         }
       ],
       "fullSizeLinks": 8
@@ -233,56 +233,56 @@
           "loaded": true,
           "naturalWidth": 1536,
           "naturalHeight": 1024,
-          "widthAttribute": 352,
-          "heightAttribute": 235
+          "renderedWidth": 352,
+          "renderedHeight": 235
         },
         {
           "src": "assets/papers/value-evidence.webp",
           "loaded": true,
           "naturalWidth": 1536,
           "naturalHeight": 1024,
-          "widthAttribute": 352,
-          "heightAttribute": 235
+          "renderedWidth": 352,
+          "renderedHeight": 235
         },
         {
           "src": "assets/papers/preference-inference.webp",
           "loaded": true,
           "naturalWidth": 1536,
           "naturalHeight": 1024,
-          "widthAttribute": 352,
-          "heightAttribute": 235
+          "renderedWidth": 352,
+          "renderedHeight": 235
         },
         {
           "src": "assets/papers/social-prediction.webp",
           "loaded": true,
           "naturalWidth": 1536,
           "naturalHeight": 1024,
-          "widthAttribute": 352,
-          "heightAttribute": 235
+          "renderedWidth": 352,
+          "renderedHeight": 235
         },
         {
           "src": "assets/papers/process-models.webp",
           "loaded": true,
           "naturalWidth": 1536,
           "naturalHeight": 1024,
-          "widthAttribute": 352,
-          "heightAttribute": 235
+          "renderedWidth": 352,
+          "renderedHeight": 235
         },
         {
           "src": "assets/papers/visual-stream.webp",
           "loaded": true,
           "naturalWidth": 1536,
           "naturalHeight": 1024,
-          "widthAttribute": 352,
-          "heightAttribute": 235
+          "renderedWidth": 352,
+          "renderedHeight": 235
         },
         {
           "src": "assets/papers/protein-structures.webp",
           "loaded": true,
           "naturalWidth": 1536,
           "naturalHeight": 1024,
-          "widthAttribute": 352,
-          "heightAttribute": 235
+          "renderedWidth": 352,
+          "renderedHeight": 235
         }
       ],
       "fullSizeLinks": 14
@@ -299,24 +299,24 @@
           "loaded": true,
           "naturalWidth": 2715,
           "naturalHeight": 3023,
-          "widthAttribute": 313,
-          "heightAttribute": 391
+          "renderedWidth": 313,
+          "renderedHeight": 391
         },
         {
           "src": "assets/papers/preference-inference.webp",
           "loaded": true,
           "naturalWidth": 1536,
           "naturalHeight": 1024,
-          "widthAttribute": 673,
-          "heightAttribute": 448
+          "renderedWidth": 673,
+          "renderedHeight": 448
         },
         {
           "src": "assets/papers/process-models.webp",
           "loaded": true,
           "naturalWidth": 1536,
           "naturalHeight": 1024,
-          "widthAttribute": 673,
-          "heightAttribute": 448
+          "renderedWidth": 673,
+          "renderedHeight": 448
         }
       ],
       "fullSizeLinks": 2
@@ -333,32 +333,32 @@
           "loaded": true,
           "naturalWidth": 1536,
           "naturalHeight": 1024,
-          "widthAttribute": 858,
-          "heightAttribute": 572
+          "renderedWidth": 858,
+          "renderedHeight": 572
         },
         {
           "src": "assets/papers/llm-cues.webp",
           "loaded": true,
           "naturalWidth": 1536,
           "naturalHeight": 1024,
-          "widthAttribute": 858,
-          "heightAttribute": 572
+          "renderedWidth": 858,
+          "renderedHeight": 572
         },
         {
           "src": "assets/papers/value-evidence.webp",
           "loaded": true,
           "naturalWidth": 1536,
           "naturalHeight": 1024,
-          "widthAttribute": 858,
-          "heightAttribute": 572
+          "renderedWidth": 858,
+          "renderedHeight": 572
         },
         {
           "src": "assets/papers/social-prediction.webp",
           "loaded": true,
           "naturalWidth": 1536,
           "naturalHeight": 1024,
-          "widthAttribute": 858,
-          "heightAttribute": 572
+          "renderedWidth": 858,
+          "renderedHeight": 572
         }
       ],
       "fullSizeLinks": 8
@@ -375,56 +375,56 @@
           "loaded": true,
           "naturalWidth": 1536,
           "naturalHeight": 1024,
-          "widthAttribute": 858,
-          "heightAttribute": 572
+          "renderedWidth": 858,
+          "renderedHeight": 572
         },
         {
           "src": "assets/papers/value-evidence.webp",
           "loaded": true,
           "naturalWidth": 1536,
           "naturalHeight": 1024,
-          "widthAttribute": 858,
-          "heightAttribute": 572
+          "renderedWidth": 858,
+          "renderedHeight": 572
         },
         {
           "src": "assets/papers/preference-inference.webp",
           "loaded": true,
           "naturalWidth": 1536,
           "naturalHeight": 1024,
-          "widthAttribute": 858,
-          "heightAttribute": 572
+          "renderedWidth": 858,
+          "renderedHeight": 572
         },
         {
           "src": "assets/papers/social-prediction.webp",
           "loaded": true,
           "naturalWidth": 1536,
           "naturalHeight": 1024,
-          "widthAttribute": 858,
-          "heightAttribute": 572
+          "renderedWidth": 858,
+          "renderedHeight": 572
         },
         {
           "src": "assets/papers/process-models.webp",
           "loaded": true,
           "naturalWidth": 1536,
           "naturalHeight": 1024,
-          "widthAttribute": 858,
-          "heightAttribute": 572
+          "renderedWidth": 858,
+          "renderedHeight": 572
         },
         {
           "src": "assets/papers/visual-stream.webp",
           "loaded": true,
           "naturalWidth": 1536,
           "naturalHeight": 1024,
-          "widthAttribute": 858,
-          "heightAttribute": 572
+          "renderedWidth": 858,
+          "renderedHeight": 572
         },
         {
           "src": "assets/papers/protein-structures.webp",
           "loaded": true,
           "naturalWidth": 1536,
           "naturalHeight": 1024,
-          "widthAttribute": 858,
-          "heightAttribute": 572
+          "renderedWidth": 858,
+          "renderedHeight": 572
         }
       ],
       "fullSizeLinks": 14
@@ -434,5 +434,16 @@
     "checked": 121,
     "errors": []
   },
-  "gitDiffCheck": "passed"
+  "gitDiffCheck": "passed",
+  "declaredPaperImageDimensions": {
+    "width": 1536,
+    "height": 1024,
+    "matchActualFiles": true
+  },
+  "visualInspection": [
+    "Home, research and publication page captures",
+    "Research at 320 CSS pixels",
+    "Publication figures at 390 and 1440 CSS pixels",
+    "All seven final generated diagrams against source figures"
+  ]
 }
