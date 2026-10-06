@@ -1,0 +1,121 @@
+{
+  "commit": "20f9d2f32ca9d3835a7eda923d32af2182e79737",
+  "github_run": 37464176985,
+  "files": [
+    {
+      "path": "styles.css",
+      "status": 200,
+      "sha256": "bc0d838752e248c6d8d2854e3f07e311f835198384c960781acae959e3caa010"
+    },
+    {
+      "path": "publications.html",
+      "status": 200,
+      "sha256": "40dbb85efbaf9ae87913cc3aceb43dc677b6f5a17e8c571f4052d276d891d371"
+    },
+    {
+      "path": "research.html",
+      "status": 200,
+      "sha256": "9aa0da0ab0a755b12794059af478454f7ee5d3abf9cef639a412753329faf8ec"
+    },
+    {
+      "path": "contact.js",
+      "status": 200,
+      "sha256": "987b7352ee15db9241ea004dfff15daa91c2995ab18f884a7384f4fe69f50f95"
+    },
+    {
+      "path": "experience.html",
+      "status": 200,
+      "sha256": "b2ff5e250aafc07b19ddc4f884784fadd1761238ace17422dc17c544809c201d"
+    },
+    {
+      "path": "404.html",
+      "status": 200,
+      "sha256": "9321f5714663327a6f34553b650c1b9e1af711b5450ccb40bd75b4cde5c023c9"
+    },
+    {
+      "path": "contact.html",
+      "status": 200,
+      "sha256": "56f42b62806a6fc7a9c105c15f354fb1881e2998c426b465b2e4dd1079be7999"
+    },
+    {
+      "path": "index.html",
+      "status": 200,
+      "sha256": "350f4fb1548fd90dd52f1310b0373082473d4f1221eb8b0b1ec48f6885868cb7"
+    },
+    {
+      "path": "cv.html",
+      "status": 200,
+      "sha256": "c2dc595ab3d90646e4a1c2ec08a9578ed8a1190014c09c7c29d601ea6bbec6f5"
+    },
+    {
+      "path": "assets/profile.jpg",
+      "status": 200,
+      "sha256": "3c750ab4a196e903245c4f1fd01b544f1258c8969a2f51563edcb9d72b35c407"
+    },
+    {
+      "path": "assets/Mrugsen_Gopnarayan_CV.pdf",
+      "status": 200,
+      "sha256": "7552129bd4010e198277b2b398b94611df11966e2f31beae8975a43ea053d156"
+    },
+    {
+      "path": "assets/favicon.svg",
+      "status": 200,
+      "sha256": "11ba313c5ace6960efc57274d7129717742e9da56ca1becfe53ac34b7fb97ef6"
+    },
+    {
+      "path": "assets/monogram.png",
+      "status": 200,
+      "sha256": "8f218709dbaa21fde0812962097c9a1c7f4101109f37fd8df32758673cd609f4"
+    },
+    {
+      "path": "assets/portrait-preview.jpeg",
+      "status": 200,
+      "sha256": "7ed09b3c0fbf18f12b6484186b8d31096496f5485720d1e136a60fdedae7f217"
+    },
+    {
+      "path": "assets/cv/page-1.webp",
+      "status": 200,
+      "sha256": "1bc1a271fc698b82c3fc0dd2025b0f190e3ed4e0f943f779d546eb2f933227bc"
+    },
+    {
+      "path": "assets/cv/page-2.webp",
+      "status": 200,
+      "sha256": "5a2b1ab4ac43a61e44c2528412f01233af6220347f94d11181af7b9a78228020"
+    },
+    {
+      "path": "assets/papers/llm-cues.webp",
+      "status": 200,
+      "sha256": "b10646fd65e47809afcb2623337daed63f54cb2d71f888f6930a7b4dcf49dd24"
+    },
+    {
+      "path": "assets/papers/process-models.webp",
+      "status": 200,
+      "sha256": "695116a7ce0183bae0e3855655ca8e3d2bb205737bb2a095fdc6538b7d4528dd"
+    },
+    {
+      "path": "assets/papers/visual-stream.webp",
+      "status": 200,
+      "sha256": "b272bb9cf84b825c731e21f0f0a9d819dba4991fcb92fcf938faa8cec0c67ac6"
+    },
+    {
+      "path": "assets/papers/value-evidence.webp",
+      "status": 200,
+      "sha256": "202db8e740d7c20d154df99ad568b5d817ecd046ac3ad7e57a46e5a079b5dc14"
+    },
+    {
+      "path": "assets/papers/social-prediction.webp",
+      "status": 200,
+      "sha256": "be02fa25ea52723b6631f9ff143adec41fe64643a717a619a76361ff65edea15"
+    },
+    {
+      "path": "assets/papers/preference-inference.webp",
+      "status": 200,
+      "sha256": "f13796a5da91454ff7e06901963358ba22ae1bffedfa1a080f8c99b692a2c781"
+    },
+    {
+      "path": "assets/papers/protein-structures.webp",
+      "status": 200,
+      "sha256": "8733659122e148290a6cae6d1eae0c5be5735cb556095fdf1ec9cf5b7f17cdaa"
+    }
+  ]
+}

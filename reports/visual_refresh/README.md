@@ -30,3 +30,5 @@ Publication metadata was also aligned with the source records: the visual-stream
 - Verified the public PDF has two pages, no extracted email addresses, and no mailto annotations. The original CV SHA-256 remains `7fe0c3ca2d82a80a6bcf947c492e319ff03eafcca0fb31c92769f90da04b432f`.
 - `node --check site/contact.js` and `git diff --check` pass. Binary attributes prevent PDF cross-reference whitespace from being treated as source-code whitespace.
 - Browser measurements and final CV/404 checks are recorded in [validation.json](validation.json); external HTTP checks are recorded separately. Some publishers block automated requests; source metadata and paper contents were checked through their official APIs or full-text PDFs.
+
+GitHub Pages run `37464176985` successfully deployed implementation commit `20f9d2f`. All 23 published site files returned HTTP 200 and matched local bytes; see [deployment.json](deployment.json).
