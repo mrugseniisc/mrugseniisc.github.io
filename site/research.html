@@ -5,14 +5,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Research by Mrugsen Gopnarayan on preference inference, decision-making, computational models, and human–AI interaction.">
   <meta name="author" content="Mrugsen Gopnarayan">
-  <meta name="theme-color" content="#112f2a">
+  <meta name="theme-color" content="#202942">
   <meta property="og:type" content="website">
   <meta property="og:title" content="Research — Mrugsen Gopnarayan">
   <meta property="og:description" content="Preference inference in social interaction and computational models of cognition.">
   <meta property="og:url" content="https://mrugseniisc.github.io/research.html">
   <meta property="og:image" content="https://mrugseniisc.github.io/assets/profile.jpg">
   <title>Research — Mrugsen Gopnarayan</title>
-  <link rel="icon" type="image/png" href="assets/monogram.png">
+  <link rel="icon" type="image/svg+xml" href="assets/favicon.svg">
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -35,34 +35,59 @@
       <p class="lead">I study how people infer what others know, want, and attend to—and how these inferences can be modelled in humans and artificial systems.</p>
     </header>
 
-    <section class="research-card">
-      <img class="research-figure" src="assets/preference-inference.svg" alt="A sequence of offers and choices, enriched with response time and gaze, updates an estimate of a buyer’s preferences.">
-      <p class="work-label">Human social cognition</p>
-      <h2>Learning preferences through interaction</h2>
-      <p>In repeated bargaining, one person must learn another’s hidden preferences from a sequence of offers and decisions. I designed a multi-round, multi-attribute task with eye tracking and studied how sellers use buyers’ choices, response times, and gaze to adapt later offers.</p>
-      <p>The project combines behavioral experiments with a hierarchical Bayesian model of preference learning. The current preprint reports data from 75 buyer–seller dyads.</p>
-      <a class="text-link" href="https://www.biorxiv.org/content/10.64898/2026.07.09.737460v1">Read the preprint <span aria-hidden="true">↗</span></a>
-    </section>
-
-    <section class="research-card">
-      <img class="research-figure" src="assets/llm-cues.svg" alt="A language model receives a human choice, gaze and response-time cues, then makes a preference estimate; the study tests whether it uses each cue.">
-      <p class="work-label">Computational cognition</p>
-      <h2>Can AI infer preferences from behavior?</h2>
-      <p>I use the bargaining task as a benchmark for large language models and recurrent neural networks. This work tests whether artificial agents can recover preferences from human choices, response times, and gaze, and whether they use process cues in ways that support effective interaction.</p>
-      <a class="text-link" href="https://osf.io/preprints/psyarxiv/bw5kq_v1">Read the preprint <span aria-hidden="true">↗</span></a>
-    </section>
-
-    <section class="research-card">
-      <div class="research-figures">
-        <img class="research-figure" src="assets/value-evidence.svg" alt="Value is translated into decision evidence before a choice; the paper studies how anxiety and depression relate to this translation.">
-        <img class="research-figure" src="assets/social-prediction.svg" alt="A person's similarity to another informs a decision prediction and its neural time course.">
+    <section class="research-card" id="bargaining">
+      <figure class="research-figure">
+        <a href="assets/papers/preference-inference.webp" aria-label="Open the bargaining illustration at full size"><img src="assets/papers/preference-inference.webp" width="1536" height="1024" alt="A buyer and seller in separate experimental spaces exchange up to four car offers; choices, timing and gaze inform the seller’s changing beliefs about attribute importance." decoding="async"></a>
+        <figcaption>Choices reveal acceptance, timing reflects decision confidence, and attention offers clues about what matters. Conceptual illustration.</figcaption>
+      </figure>
+      <div class="research-copy">
+        <p class="work-label">Human social cognition · preprint</p>
+        <h2>Learning preferences through interaction</h2>
+        <p>How can a seller learn what a buyer values without being told their preferences? I designed a repeated bargaining task in which 75 buyer–seller dyads negotiated offers defined by three attributes, such as a car’s speed, comfort, and safety.</p>
+        <p>Buyers’ choices, rejection times, and first fixations carried different information about their preferences. Sellers adapted later offers using these cues. A hierarchical model describes them as Bayesian learners balancing expected utility with information gain. Access to gaze changed how sellers used attention, without improving overall performance.</p>
+        <a class="text-link" href="https://www.biorxiv.org/content/10.64898/2026.07.09.737460v1">Read the preprint <span aria-hidden="true">↗</span></a>
       </div>
-      <p class="work-label">Decision neuroscience</p>
-      <h2>From value to evidence, in people and models</h2>
-      <p>My work also examines how anxiety and depression relate to the translation of value into decision evidence, and how people represent decisions made by similar and dissimilar others. These projects connect behavioral choice with computational models and neural measures.</p>
-      <div class="link-row">
-        <a class="text-link" href="https://www.biorxiv.org/content/10.64898/2026.06.09.731091v1">Value and affective symptoms <span aria-hidden="true">↗</span></a>
-        <a class="text-link" href="https://osf.io/preprints/psyarxiv/5ukqr_v1">Predicted decisions for others <span aria-hidden="true">↗</span></a>
+    </section>
+
+    <section class="research-card" id="llm">
+      <figure class="research-figure">
+        <a href="assets/papers/llm-cues.webp" aria-label="Open the language-model illustration at full size"><img src="assets/papers/llm-cues.webp" width="1536" height="1024" alt="Choice and gaze information enter a language-model architecture while the response-time pathway fades; imperfect preference estimates can still support effective offers." loading="lazy" decoding="async"></a>
+        <figcaption>Recovering a person’s preferences and making a good offer are different capabilities. Conceptual illustration.</figcaption>
+      </figure>
+      <div class="research-copy">
+        <p class="work-label">Computational cognition · preprint</p>
+        <h2>Which human cues can language models use?</h2>
+        <p>I evaluated Llama 3.1, Centaur, and GPT-5 as sellers in the bargaining task, supplying human choices and descriptions of response times and gaze. The models used gaze information to improve inference and offers, but exploited response times much less effectively than humans.</p>
+        <p>GPT-5 outperformed the two open models. Yet humans recovered the hidden preference weights more accurately, while models could turn imperfect estimates into competitive offers. The distinction matters: strong task performance does not establish human-like social inference.</p>
+        <a class="text-link" href="https://osf.io/preprints/psyarxiv/bw5kq_v1">Read the preprint <span aria-hidden="true">↗</span></a>
+      </div>
+    </section>
+
+    <section class="research-card" id="value">
+      <figure class="research-figure">
+        <a href="assets/papers/value-evidence.webp" aria-label="Open the value-to-evidence illustration at full size"><img src="assets/papers/value-evidence.webp" width="1536" height="1024" alt="A participant wearing an EEG cap makes risky choices; a weaker value-to-evidence pathway feeds an accumulator whose decision boundaries remain unchanged." loading="lazy" decoding="async"></a>
+        <figcaption>The proposed mechanism concerns how value becomes decision evidence, with decision caution largely intact. Conceptual illustration.</figcaption>
+      </figure>
+      <div class="research-copy">
+        <p class="work-label">Decision neuroscience · preprint</p>
+        <h2>Where value becomes evidence</h2>
+        <p>Why do anxiety and depression relate to biased choices? Across independent cohorts from the US and India, this project combined risky decisions, hierarchical drift-diffusion modelling, and EEG measures of evidence accumulation.</p>
+        <p>Higher symptom scores were associated with weaker sensitivity to value during evidence accumulation, while decision caution remained largely unchanged. Risk and loss aversion showed little association with symptoms. This points to the translation of value into evidence as a possible shared mechanism.</p>
+        <a class="text-link" href="https://www.biorxiv.org/content/10.64898/2026.06.09.731091v1">Read the preprint <span aria-hidden="true">↗</span></a>
+      </div>
+    </section>
+
+    <section class="research-card" id="social">
+      <figure class="research-figure">
+        <a href="assets/papers/social-prediction.webp" aria-label="Open the self–other prediction illustration at full size"><img src="assets/papers/social-prediction.webp" width="1800" height="750" alt="An EEG participant predicts decisions for similar and dissimilar simulated others; an earlier self–other distinction precedes a later shared valuation signal." loading="lazy" decoding="async"></a>
+        <figcaption>Whose decision is this? Distinguishing the agent precedes a more general valuation process. Conceptual illustration.</figcaption>
+      </figure>
+      <div class="research-copy">
+        <p class="work-label">Social decision neuroscience · preprint</p>
+        <h2>Predicting others without confusing them with ourselves</h2>
+        <p>Participants first made risky choices for themselves, then learned and predicted the choices of simulated agents with similar or dissimilar risk preferences. EEG allowed us to ask when self–other distinction and valuation emerged within a decision.</p>
+        <p>An earlier signal distinguished predictions for a similar other from self decisions, followed by a later difficulty-related signal shared across decision types. Contrary to the original hypothesis, the dissimilar-other comparison did not show the same reliable early distinction.</p>
+        <a class="text-link" href="https://osf.io/preprints/psyarxiv/5ukqr_v1">Read the preprint <span aria-hidden="true">↗</span></a>
       </div>
     </section>
 
@@ -74,7 +99,7 @@
 
   <footer class="site-footer wrap">
     <span>© Mrugsen Gopnarayan</span>
-    <div><a href="mailto:mrugsenng@gmail.com">Email</a><a href="https://github.com/mrugseniisc">GitHub</a><a href="https://scholar.google.com/citations?user=w6328sUAAAAJ">Google Scholar</a></div>
+    <div><a href="contact.html">Contact</a><a href="https://github.com/mrugseniisc">GitHub</a><a href="https://scholar.google.com/citations?user=w6328sUAAAAJ">Google Scholar</a></div>
   </footer>
 </body>
 </html>

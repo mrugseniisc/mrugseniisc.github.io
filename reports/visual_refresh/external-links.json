@@ -1,0 +1,43 @@
+[
+  {
+    "url": "https://doi.org/10.1037/dec0000239",
+    "status": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://github.com/mrugseniisc",
+    "status": 200
+  },
+  {
+    "url": "https://journals.iucr.org/m/issues/2022/01/00/fq5017/fq5017.pdf",
+    "status": 200
+  },
+  {
+    "url": "https://osf.io/preprints/psyarxiv/5ukqr_v1",
+    "status": 200
+  },
+  {
+    "url": "https://osf.io/preprints/psyarxiv/bw5kq_v1",
+    "status": 200
+  },
+  {
+    "url": "https://scholar.google.com/citations?user=w6328sUAAAAJ",
+    "status": 200
+  },
+  {
+    "url": "https://www.biorxiv.org/content/10.1101/2022.09.22.509086v1",
+    "status": 200
+  },
+  {
+    "url": "https://www.biorxiv.org/content/10.64898/2026.06.09.731091v1",
+    "status": 200
+  },
+  {
+    "url": "https://www.biorxiv.org/content/10.64898/2026.07.09.737460v1",
+    "status": 200
+  },
+  {
+    "url": "https://www.psy.uni-hamburg.de/en/arbeitsbereiche/kognitive-modellierung-und-neurowissenschaften-des-entscheidens/personen/sebastian-gluth.html",
+    "status": 200,
+    "repair": "Replaced obsolete advisor URL that returned 404"
+  }
+]

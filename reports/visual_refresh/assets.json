@@ -1,0 +1,44 @@
+{
+  "preference-inference": {
+    "width": 1536,
+    "height": 1024,
+    "bytes": 203348,
+    "sha256": "f13796a5da91454ff7e06901963358ba22ae1bffedfa1a080f8c99b692a2c781"
+  },
+  "llm-cues": {
+    "width": 1536,
+    "height": 1024,
+    "bytes": 200584,
+    "sha256": "b10646fd65e47809afcb2623337daed63f54cb2d71f888f6930a7b4dcf49dd24"
+  },
+  "value-evidence": {
+    "width": 1536,
+    "height": 1024,
+    "bytes": 175148,
+    "sha256": "202db8e740d7c20d154df99ad568b5d817ecd046ac3ad7e57a46e5a079b5dc14"
+  },
+  "social-prediction": {
+    "width": 1800,
+    "height": 750,
+    "bytes": 124322,
+    "sha256": "be02fa25ea52723b6631f9ff143adec41fe64643a717a619a76361ff65edea15"
+  },
+  "process-models": {
+    "width": 1774,
+    "height": 887,
+    "bytes": 252350,
+    "sha256": "695116a7ce0183bae0e3855655ca8e3d2bb205737bb2a095fdc6538b7d4528dd"
+  },
+  "visual-stream": {
+    "width": 1536,
+    "height": 1024,
+    "bytes": 267606,
+    "sha256": "b272bb9cf84b825c731e21f0f0a9d819dba4991fcb92fcf938faa8cec0c67ac6"
+  },
+  "protein-structures": {
+    "width": 1536,
+    "height": 1024,
+    "bytes": 309746,
+    "sha256": "8733659122e148290a6cae6d1eae0c5be5735cb556095fdf1ec9cf5b7f17cdaa"
+  }
+}

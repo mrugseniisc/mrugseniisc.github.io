@@ -1,0 +1,519 @@
+{
+  "internal_references_checked": 110,
+  "internal_errors": [],
+  "public_text_email_matches": 0,
+  "private_cv_sha256": "7fe0c3ca2d82a80a6bcf947c492e319ff03eafcca0fb31c92769f90da04b432f",
+  "browser_initial": [
+    {
+      "page": "index",
+      "width": 390,
+      "viewport": 390,
+      "scroll": 390,
+      "images": [
+        {
+          "loaded": true,
+          "src": "assets/profile.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "assets/papers/preference-inference.webp"
+        },
+        {
+          "loaded": true,
+          "src": "assets/papers/process-models.webp"
+        }
+      ],
+      "emailLinks": 0,
+      "title": "Mrugsen Gopnarayan \u2014 Research",
+      "theme": "#202942",
+      "networkFailures": []
+    },
+    {
+      "page": "research",
+      "width": 390,
+      "viewport": 390,
+      "scroll": 390,
+      "images": [
+        {
+          "loaded": true,
+          "src": "assets/papers/preference-inference.webp"
+        },
+        {
+          "loaded": true,
+          "src": "assets/papers/llm-cues.webp"
+        },
+        {
+          "loaded": true,
+          "src": "assets/papers/value-evidence.webp"
+        },
+        {
+          "loaded": true,
+          "src": "assets/papers/social-prediction.webp"
+        }
+      ],
+      "emailLinks": 0,
+      "title": "Research \u2014 Mrugsen Gopnarayan",
+      "theme": "#202942",
+      "networkFailures": []
+    },
+    {
+      "page": "publications",
+      "width": 390,
+      "viewport": 390,
+      "scroll": 390,
+      "images": [
+        {
+          "loaded": true,
+          "src": "assets/papers/llm-cues.webp"
+        },
+        {
+          "loaded": true,
+          "src": "assets/papers/value-evidence.webp"
+        },
+        {
+          "loaded": true,
+          "src": "assets/papers/preference-inference.webp"
+        },
+        {
+          "loaded": true,
+          "src": "assets/papers/social-prediction.webp"
+        },
+        {
+          "loaded": true,
+          "src": "assets/papers/process-models.webp"
+        },
+        {
+          "loaded": true,
+          "src": "assets/papers/visual-stream.webp"
+        },
+        {
+          "loaded": true,
+          "src": "assets/papers/protein-structures.webp"
+        }
+      ],
+      "emailLinks": 0,
+      "title": "Publications \u2014 Mrugsen Gopnarayan",
+      "theme": "#202942",
+      "networkFailures": []
+    },
+    {
+      "page": "experience",
+      "width": 390,
+      "viewport": 390,
+      "scroll": 390,
+      "images": [],
+      "emailLinks": 0,
+      "title": "Experience \u2014 Mrugsen Gopnarayan",
+      "theme": "#202942",
+      "networkFailures": []
+    },
+    {
+      "page": "cv",
+      "width": 390,
+      "viewport": 390,
+      "scroll": 390,
+      "images": [],
+      "emailLinks": 0,
+      "title": "CV \u2014 Mrugsen Gopnarayan",
+      "theme": "#202942",
+      "networkFailures": []
+    },
+    {
+      "page": "contact",
+      "width": 390,
+      "viewport": 390,
+      "scroll": 390,
+      "images": [],
+      "emailLinks": 0,
+      "title": "Contact \u2014 Mrugsen Gopnarayan",
+      "theme": "#202942",
+      "networkFailures": []
+    },
+    {
+      "page": "contact-after-click",
+      "width": 390,
+      "revealed": true,
+      "mailLink": 1,
+      "expanded": "true",
+      "focused": "contact-address",
+      "scroll": 390
+    },
+    {
+      "page": "404",
+      "width": 390,
+      "viewport": 390,
+      "scroll": 390,
+      "images": [],
+      "emailLinks": 0,
+      "title": "Page not found \u2014 Mrugsen Gopnarayan",
+      "networkFailures": [
+        "http://127.0.0.1:8000/favicon.ico"
+      ]
+    },
+    {
+      "page": "index",
+      "width": 1440,
+      "viewport": 1440,
+      "scroll": 1425,
+      "images": [
+        {
+          "loaded": true,
+          "src": "assets/profile.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "assets/papers/preference-inference.webp"
+        },
+        {
+          "loaded": true,
+          "src": "assets/papers/process-models.webp"
+        }
+      ],
+      "emailLinks": 0,
+      "title": "Mrugsen Gopnarayan \u2014 Research",
+      "theme": "#202942",
+      "networkFailures": []
+    },
+    {
+      "page": "research",
+      "width": 1440,
+      "viewport": 1440,
+      "scroll": 1425,
+      "images": [
+        {
+          "loaded": true,
+          "src": "assets/papers/preference-inference.webp"
+        },
+        {
+          "loaded": true,
+          "src": "assets/papers/llm-cues.webp"
+        },
+        {
+          "loaded": true,
+          "src": "assets/papers/value-evidence.webp"
+        },
+        {
+          "loaded": true,
+          "src": "assets/papers/social-prediction.webp"
+        }
+      ],
+      "emailLinks": 0,
+      "title": "Research \u2014 Mrugsen Gopnarayan",
+      "theme": "#202942",
+      "networkFailures": []
+    },
+    {
+      "page": "publications",
+      "width": 1440,
+      "viewport": 1440,
+      "scroll": 1425,
+      "images": [
+        {
+          "loaded": true,
+          "src": "assets/papers/llm-cues.webp"
+        },
+        {
+          "loaded": true,
+          "src": "assets/papers/value-evidence.webp"
+        },
+        {
+          "loaded": true,
+          "src": "assets/papers/preference-inference.webp"
+        },
+        {
+          "loaded": true,
+          "src": "assets/papers/social-prediction.webp"
+        },
+        {
+          "loaded": true,
+          "src": "assets/papers/process-models.webp"
+        },
+        {
+          "loaded": true,
+          "src": "assets/papers/visual-stream.webp"
+        },
+        {
+          "loaded": true,
+          "src": "assets/papers/protein-structures.webp"
+        }
+      ],
+      "emailLinks": 0,
+      "title": "Publications \u2014 Mrugsen Gopnarayan",
+      "theme": "#202942",
+      "networkFailures": []
+    },
+    {
+      "page": "experience",
+      "width": 1440,
+      "viewport": 1440,
+      "scroll": 1425,
+      "images": [],
+      "emailLinks": 0,
+      "title": "Experience \u2014 Mrugsen Gopnarayan",
+      "theme": "#202942",
+      "networkFailures": []
+    },
+    {
+      "page": "cv",
+      "width": 1440,
+      "viewport": 1440,
+      "scroll": 1425,
+      "images": [],
+      "emailLinks": 0,
+      "title": "CV \u2014 Mrugsen Gopnarayan",
+      "theme": "#202942",
+      "networkFailures": []
+    },
+    {
+      "page": "contact",
+      "width": 1440,
+      "viewport": 1440,
+      "scroll": 1440,
+      "images": [],
+      "emailLinks": 0,
+      "title": "Contact \u2014 Mrugsen Gopnarayan",
+      "theme": "#202942",
+      "networkFailures": []
+    },
+    {
+      "page": "404",
+      "width": 1440,
+      "viewport": 1440,
+      "scroll": 1440,
+      "images": [],
+      "emailLinks": 0,
+      "title": "Page not found \u2014 Mrugsen Gopnarayan",
+      "networkFailures": []
+    },
+    {
+      "page": "index",
+      "width": 320,
+      "viewport": 320,
+      "scroll": 320,
+      "images": [
+        {
+          "loaded": true,
+          "src": "assets/profile.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "assets/papers/preference-inference.webp"
+        },
+        {
+          "loaded": true,
+          "src": "assets/papers/process-models.webp"
+        }
+      ],
+      "emailLinks": 0,
+      "title": "Mrugsen Gopnarayan \u2014 Research",
+      "theme": "#202942",
+      "networkFailures": []
+    },
+    {
+      "page": "research",
+      "width": 320,
+      "viewport": 320,
+      "scroll": 320,
+      "images": [
+        {
+          "loaded": true,
+          "src": "assets/papers/preference-inference.webp"
+        },
+        {
+          "loaded": true,
+          "src": "assets/papers/llm-cues.webp"
+        },
+        {
+          "loaded": true,
+          "src": "assets/papers/value-evidence.webp"
+        },
+        {
+          "loaded": true,
+          "src": "assets/papers/social-prediction.webp"
+        }
+      ],
+      "emailLinks": 0,
+      "title": "Research \u2014 Mrugsen Gopnarayan",
+      "theme": "#202942",
+      "networkFailures": []
+    },
+    {
+      "page": "publications",
+      "width": 320,
+      "viewport": 320,
+      "scroll": 320,
+      "images": [
+        {
+          "loaded": true,
+          "src": "assets/papers/llm-cues.webp"
+        },
+        {
+          "loaded": true,
+          "src": "assets/papers/value-evidence.webp"
+        },
+        {
+          "loaded": true,
+          "src": "assets/papers/preference-inference.webp"
+        },
+        {
+          "loaded": true,
+          "src": "assets/papers/social-prediction.webp"
+        },
+        {
+          "loaded": true,
+          "src": "assets/papers/process-models.webp"
+        },
+        {
+          "loaded": true,
+          "src": "assets/papers/visual-stream.webp"
+        },
+        {
+          "loaded": true,
+          "src": "assets/papers/protein-structures.webp"
+        }
+      ],
+      "emailLinks": 0,
+      "title": "Publications \u2014 Mrugsen Gopnarayan",
+      "theme": "#202942",
+      "networkFailures": []
+    },
+    {
+      "page": "experience",
+      "width": 320,
+      "viewport": 320,
+      "scroll": 320,
+      "images": [],
+      "emailLinks": 0,
+      "title": "Experience \u2014 Mrugsen Gopnarayan",
+      "theme": "#202942",
+      "networkFailures": []
+    },
+    {
+      "page": "cv",
+      "width": 320,
+      "viewport": 320,
+      "scroll": 320,
+      "images": [],
+      "emailLinks": 0,
+      "title": "CV \u2014 Mrugsen Gopnarayan",
+      "theme": "#202942",
+      "networkFailures": []
+    },
+    {
+      "page": "contact",
+      "width": 320,
+      "viewport": 320,
+      "scroll": 320,
+      "images": [],
+      "emailLinks": 0,
+      "title": "Contact \u2014 Mrugsen Gopnarayan",
+      "theme": "#202942",
+      "networkFailures": []
+    },
+    {
+      "page": "404",
+      "width": 320,
+      "viewport": 320,
+      "scroll": 320,
+      "images": [],
+      "emailLinks": 0,
+      "title": "Page not found \u2014 Mrugsen Gopnarayan",
+      "networkFailures": []
+    }
+  ],
+  "browser_final_cv_404": [
+    {
+      "page": "cv",
+      "width": 390,
+      "viewport": 390,
+      "scroll": 390,
+      "images": [
+        {
+          "loaded": true,
+          "src": "assets/cv/page-1.webp"
+        },
+        {
+          "loaded": true,
+          "src": "assets/cv/page-2.webp"
+        }
+      ],
+      "emailLinks": 0,
+      "title": "CV \u2014 Mrugsen Gopnarayan",
+      "theme": "#202942",
+      "networkFailures": []
+    },
+    {
+      "page": "404",
+      "width": 390,
+      "viewport": 390,
+      "scroll": 390,
+      "images": [],
+      "emailLinks": 0,
+      "title": "Page not found \u2014 Mrugsen Gopnarayan",
+      "theme": "#202942",
+      "networkFailures": []
+    },
+    {
+      "page": "cv",
+      "width": 1440,
+      "viewport": 1440,
+      "scroll": 1425,
+      "images": [
+        {
+          "loaded": true,
+          "src": "assets/cv/page-1.webp"
+        },
+        {
+          "loaded": true,
+          "src": "assets/cv/page-2.webp"
+        }
+      ],
+      "emailLinks": 0,
+      "title": "CV \u2014 Mrugsen Gopnarayan",
+      "theme": "#202942",
+      "networkFailures": []
+    },
+    {
+      "page": "404",
+      "width": 1440,
+      "viewport": 1440,
+      "scroll": 1440,
+      "images": [],
+      "emailLinks": 0,
+      "title": "Page not found \u2014 Mrugsen Gopnarayan",
+      "theme": "#202942",
+      "networkFailures": []
+    },
+    {
+      "page": "cv",
+      "width": 320,
+      "viewport": 320,
+      "scroll": 320,
+      "images": [
+        {
+          "loaded": true,
+          "src": "assets/cv/page-1.webp"
+        },
+        {
+          "loaded": true,
+          "src": "assets/cv/page-2.webp"
+        }
+      ],
+      "emailLinks": 0,
+      "title": "CV \u2014 Mrugsen Gopnarayan",
+      "theme": "#202942",
+      "networkFailures": []
+    },
+    {
+      "page": "404",
+      "width": 320,
+      "viewport": 320,
+      "scroll": 320,
+      "images": [],
+      "emailLinks": 0,
+      "title": "Page not found \u2014 Mrugsen Gopnarayan",
+      "theme": "#202942",
+      "networkFailures": []
+    }
+  ]
+}
