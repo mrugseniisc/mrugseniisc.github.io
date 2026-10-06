@@ -1,0 +1,51 @@
+[
+  {
+    "path": "site/assets/papers/llm-cues.webp",
+    "width": 1536,
+    "height": 1024,
+    "bytes": 1095824,
+    "sha256": "ed9c208738d93022297a0295f0a1884259606635325ac9fc3524f9487e506fbf"
+  },
+  {
+    "path": "site/assets/papers/preference-inference.webp",
+    "width": 1536,
+    "height": 1024,
+    "bytes": 953202,
+    "sha256": "009bbe66cd1e81131fa9d04ce633db65e758211b725f0be6ac358b0987790f84"
+  },
+  {
+    "path": "site/assets/papers/process-models.webp",
+    "width": 1536,
+    "height": 1024,
+    "bytes": 1144632,
+    "sha256": "e7cd0878fbe8d2d170b712106a2fbaadacc6b1c5e47ca8765b808ca6f4c6539d"
+  },
+  {
+    "path": "site/assets/papers/protein-structures.webp",
+    "width": 1536,
+    "height": 1024,
+    "bytes": 1102436,
+    "sha256": "a7edff57f0fdd9d19368f135eaa0c74624da5426c5e695491d17de229b125697"
+  },
+  {
+    "path": "site/assets/papers/social-prediction.webp",
+    "width": 1536,
+    "height": 1024,
+    "bytes": 1139718,
+    "sha256": "cad024f72ddd70f739893cf44b0deb44bb828962f2833b5636bb5a0bb7a5fd67"
+  },
+  {
+    "path": "site/assets/papers/value-evidence.webp",
+    "width": 1536,
+    "height": 1024,
+    "bytes": 1041984,
+    "sha256": "6d4fab61e426710cf5fed8d230fd7d6e44cb1f026fb8372c960b32e595173f9a"
+  },
+  {
+    "path": "site/assets/papers/visual-stream.webp",
+    "width": 1536,
+    "height": 1024,
+    "bytes": 1036526,
+    "sha256": "259c6ad7127d3ccb7b531c57d9c8d871d4462a9d18f4a1736e7509259159d6a7"
+  }
+]

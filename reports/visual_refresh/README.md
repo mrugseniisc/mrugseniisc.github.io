@@ -1,5 +1,7 @@
 # Paper artwork and contact refresh — 6 October 2026
 
+The artwork from this refresh has since been replaced by [source-based scientific schematics](../scientific_illustrations/README.md). This report preserves the earlier palette, contact, CV, and deployment evidence.
+
 Replaced the green palette with midnight blue, warm ivory, copper, and periwinkle. The former seven SVG diagrams are superseded by generated WebP illustrations in `site/assets/papers/`. The artwork is presented as conceptual explanation, with complete compositions and links to full-size views.
 
 Read the linked primary papers (including their abstract, task, results, and discussion sections) before preparing the artwork briefs. The built-in imagegen tool produced each image separately. See [the complete prompt set](image-prompts.md).

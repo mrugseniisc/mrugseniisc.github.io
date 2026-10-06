@@ -1,0 +1,438 @@
+{
+  "date": "2026-10-06",
+  "browser": "Chromium 138",
+  "previewCommand": "python3 -m http.server 8000 --directory site",
+  "pages": [
+    {
+      "page": "/index.html",
+      "width": 320,
+      "scrollWidth": 320,
+      "title": "Mrugsen Gopnarayan \u2014 Research",
+      "description": "Mrugsen Gopnarayan studies how people and artificial systems infer preferences from behavior.",
+      "images": [
+        {
+          "src": "assets/profile.jpg",
+          "loaded": true,
+          "naturalWidth": 2715,
+          "naturalHeight": 3023,
+          "widthAttribute": 172,
+          "heightAttribute": 215
+        },
+        {
+          "src": "assets/papers/preference-inference.webp",
+          "loaded": true,
+          "naturalWidth": 1536,
+          "naturalHeight": 1024,
+          "widthAttribute": 282,
+          "heightAttribute": 188
+        },
+        {
+          "src": "assets/papers/process-models.webp",
+          "loaded": true,
+          "naturalWidth": 1536,
+          "naturalHeight": 1024,
+          "widthAttribute": 282,
+          "heightAttribute": 188
+        }
+      ],
+      "fullSizeLinks": 2
+    },
+    {
+      "page": "/research.html",
+      "width": 320,
+      "scrollWidth": 320,
+      "title": "Research \u2014 Mrugsen Gopnarayan",
+      "description": "Research by Mrugsen Gopnarayan on preference inference, decision-making, computational models, and human\u2013AI interaction.",
+      "images": [
+        {
+          "src": "assets/papers/preference-inference.webp",
+          "loaded": true,
+          "naturalWidth": 1536,
+          "naturalHeight": 1024,
+          "widthAttribute": 282,
+          "heightAttribute": 188
+        },
+        {
+          "src": "assets/papers/llm-cues.webp",
+          "loaded": true,
+          "naturalWidth": 1536,
+          "naturalHeight": 1024,
+          "widthAttribute": 282,
+          "heightAttribute": 188
+        },
+        {
+          "src": "assets/papers/value-evidence.webp",
+          "loaded": true,
+          "naturalWidth": 1536,
+          "naturalHeight": 1024,
+          "widthAttribute": 282,
+          "heightAttribute": 188
+        },
+        {
+          "src": "assets/papers/social-prediction.webp",
+          "loaded": true,
+          "naturalWidth": 1536,
+          "naturalHeight": 1024,
+          "widthAttribute": 282,
+          "heightAttribute": 188
+        }
+      ],
+      "fullSizeLinks": 8
+    },
+    {
+      "page": "/publications.html",
+      "width": 320,
+      "scrollWidth": 320,
+      "title": "Publications \u2014 Mrugsen Gopnarayan",
+      "description": "Publications by Mrugsen Gopnarayan in cognitive science, decision-making, computational modeling, and human\u2013AI interaction.",
+      "images": [
+        {
+          "src": "assets/papers/llm-cues.webp",
+          "loaded": true,
+          "naturalWidth": 1536,
+          "naturalHeight": 1024,
+          "widthAttribute": 282,
+          "heightAttribute": 188
+        },
+        {
+          "src": "assets/papers/value-evidence.webp",
+          "loaded": true,
+          "naturalWidth": 1536,
+          "naturalHeight": 1024,
+          "widthAttribute": 282,
+          "heightAttribute": 188
+        },
+        {
+          "src": "assets/papers/preference-inference.webp",
+          "loaded": true,
+          "naturalWidth": 1536,
+          "naturalHeight": 1024,
+          "widthAttribute": 282,
+          "heightAttribute": 188
+        },
+        {
+          "src": "assets/papers/social-prediction.webp",
+          "loaded": true,
+          "naturalWidth": 1536,
+          "naturalHeight": 1024,
+          "widthAttribute": 282,
+          "heightAttribute": 188
+        },
+        {
+          "src": "assets/papers/process-models.webp",
+          "loaded": true,
+          "naturalWidth": 1536,
+          "naturalHeight": 1024,
+          "widthAttribute": 282,
+          "heightAttribute": 188
+        },
+        {
+          "src": "assets/papers/visual-stream.webp",
+          "loaded": true,
+          "naturalWidth": 1536,
+          "naturalHeight": 1024,
+          "widthAttribute": 282,
+          "heightAttribute": 188
+        },
+        {
+          "src": "assets/papers/protein-structures.webp",
+          "loaded": true,
+          "naturalWidth": 1536,
+          "naturalHeight": 1024,
+          "widthAttribute": 282,
+          "heightAttribute": 188
+        }
+      ],
+      "fullSizeLinks": 14
+    },
+    {
+      "page": "/index.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "title": "Mrugsen Gopnarayan \u2014 Research",
+      "description": "Mrugsen Gopnarayan studies how people and artificial systems infer preferences from behavior.",
+      "images": [
+        {
+          "src": "assets/profile.jpg",
+          "loaded": true,
+          "naturalWidth": 2715,
+          "naturalHeight": 3023,
+          "widthAttribute": 221,
+          "heightAttribute": 276
+        },
+        {
+          "src": "assets/papers/preference-inference.webp",
+          "loaded": true,
+          "naturalWidth": 1536,
+          "naturalHeight": 1024,
+          "widthAttribute": 352,
+          "heightAttribute": 235
+        },
+        {
+          "src": "assets/papers/process-models.webp",
+          "loaded": true,
+          "naturalWidth": 1536,
+          "naturalHeight": 1024,
+          "widthAttribute": 352,
+          "heightAttribute": 235
+        }
+      ],
+      "fullSizeLinks": 2
+    },
+    {
+      "page": "/research.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "title": "Research \u2014 Mrugsen Gopnarayan",
+      "description": "Research by Mrugsen Gopnarayan on preference inference, decision-making, computational models, and human\u2013AI interaction.",
+      "images": [
+        {
+          "src": "assets/papers/preference-inference.webp",
+          "loaded": true,
+          "naturalWidth": 1536,
+          "naturalHeight": 1024,
+          "widthAttribute": 352,
+          "heightAttribute": 235
+        },
+        {
+          "src": "assets/papers/llm-cues.webp",
+          "loaded": true,
+          "naturalWidth": 1536,
+          "naturalHeight": 1024,
+          "widthAttribute": 352,
+          "heightAttribute": 235
+        },
+        {
+          "src": "assets/papers/value-evidence.webp",
+          "loaded": true,
+          "naturalWidth": 1536,
+          "naturalHeight": 1024,
+          "widthAttribute": 352,
+          "heightAttribute": 235
+        },
+        {
+          "src": "assets/papers/social-prediction.webp",
+          "loaded": true,
+          "naturalWidth": 1536,
+          "naturalHeight": 1024,
+          "widthAttribute": 352,
+          "heightAttribute": 235
+        }
+      ],
+      "fullSizeLinks": 8
+    },
+    {
+      "page": "/publications.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "title": "Publications \u2014 Mrugsen Gopnarayan",
+      "description": "Publications by Mrugsen Gopnarayan in cognitive science, decision-making, computational modeling, and human\u2013AI interaction.",
+      "images": [
+        {
+          "src": "assets/papers/llm-cues.webp",
+          "loaded": true,
+          "naturalWidth": 1536,
+          "naturalHeight": 1024,
+          "widthAttribute": 352,
+          "heightAttribute": 235
+        },
+        {
+          "src": "assets/papers/value-evidence.webp",
+          "loaded": true,
+          "naturalWidth": 1536,
+          "naturalHeight": 1024,
+          "widthAttribute": 352,
+          "heightAttribute": 235
+        },
+        {
+          "src": "assets/papers/preference-inference.webp",
+          "loaded": true,
+          "naturalWidth": 1536,
+          "naturalHeight": 1024,
+          "widthAttribute": 352,
+          "heightAttribute": 235
+        },
+        {
+          "src": "assets/papers/social-prediction.webp",
+          "loaded": true,
+          "naturalWidth": 1536,
+          "naturalHeight": 1024,
+          "widthAttribute": 352,
+          "heightAttribute": 235
+        },
+        {
+          "src": "assets/papers/process-models.webp",
+          "loaded": true,
+          "naturalWidth": 1536,
+          "naturalHeight": 1024,
+          "widthAttribute": 352,
+          "heightAttribute": 235
+        },
+        {
+          "src": "assets/papers/visual-stream.webp",
+          "loaded": true,
+          "naturalWidth": 1536,
+          "naturalHeight": 1024,
+          "widthAttribute": 352,
+          "heightAttribute": 235
+        },
+        {
+          "src": "assets/papers/protein-structures.webp",
+          "loaded": true,
+          "naturalWidth": 1536,
+          "naturalHeight": 1024,
+          "widthAttribute": 352,
+          "heightAttribute": 235
+        }
+      ],
+      "fullSizeLinks": 14
+    },
+    {
+      "page": "/index.html",
+      "width": 1440,
+      "scrollWidth": 1425,
+      "title": "Mrugsen Gopnarayan \u2014 Research",
+      "description": "Mrugsen Gopnarayan studies how people and artificial systems infer preferences from behavior.",
+      "images": [
+        {
+          "src": "assets/profile.jpg",
+          "loaded": true,
+          "naturalWidth": 2715,
+          "naturalHeight": 3023,
+          "widthAttribute": 313,
+          "heightAttribute": 391
+        },
+        {
+          "src": "assets/papers/preference-inference.webp",
+          "loaded": true,
+          "naturalWidth": 1536,
+          "naturalHeight": 1024,
+          "widthAttribute": 673,
+          "heightAttribute": 448
+        },
+        {
+          "src": "assets/papers/process-models.webp",
+          "loaded": true,
+          "naturalWidth": 1536,
+          "naturalHeight": 1024,
+          "widthAttribute": 673,
+          "heightAttribute": 448
+        }
+      ],
+      "fullSizeLinks": 2
+    },
+    {
+      "page": "/research.html",
+      "width": 1440,
+      "scrollWidth": 1425,
+      "title": "Research \u2014 Mrugsen Gopnarayan",
+      "description": "Research by Mrugsen Gopnarayan on preference inference, decision-making, computational models, and human\u2013AI interaction.",
+      "images": [
+        {
+          "src": "assets/papers/preference-inference.webp",
+          "loaded": true,
+          "naturalWidth": 1536,
+          "naturalHeight": 1024,
+          "widthAttribute": 858,
+          "heightAttribute": 572
+        },
+        {
+          "src": "assets/papers/llm-cues.webp",
+          "loaded": true,
+          "naturalWidth": 1536,
+          "naturalHeight": 1024,
+          "widthAttribute": 858,
+          "heightAttribute": 572
+        },
+        {
+          "src": "assets/papers/value-evidence.webp",
+          "loaded": true,
+          "naturalWidth": 1536,
+          "naturalHeight": 1024,
+          "widthAttribute": 858,
+          "heightAttribute": 572
+        },
+        {
+          "src": "assets/papers/social-prediction.webp",
+          "loaded": true,
+          "naturalWidth": 1536,
+          "naturalHeight": 1024,
+          "widthAttribute": 858,
+          "heightAttribute": 572
+        }
+      ],
+      "fullSizeLinks": 8
+    },
+    {
+      "page": "/publications.html",
+      "width": 1440,
+      "scrollWidth": 1425,
+      "title": "Publications \u2014 Mrugsen Gopnarayan",
+      "description": "Publications by Mrugsen Gopnarayan in cognitive science, decision-making, computational modeling, and human\u2013AI interaction.",
+      "images": [
+        {
+          "src": "assets/papers/llm-cues.webp",
+          "loaded": true,
+          "naturalWidth": 1536,
+          "naturalHeight": 1024,
+          "widthAttribute": 858,
+          "heightAttribute": 572
+        },
+        {
+          "src": "assets/papers/value-evidence.webp",
+          "loaded": true,
+          "naturalWidth": 1536,
+          "naturalHeight": 1024,
+          "widthAttribute": 858,
+          "heightAttribute": 572
+        },
+        {
+          "src": "assets/papers/preference-inference.webp",
+          "loaded": true,
+          "naturalWidth": 1536,
+          "naturalHeight": 1024,
+          "widthAttribute": 858,
+          "heightAttribute": 572
+        },
+        {
+          "src": "assets/papers/social-prediction.webp",
+          "loaded": true,
+          "naturalWidth": 1536,
+          "naturalHeight": 1024,
+          "widthAttribute": 858,
+          "heightAttribute": 572
+        },
+        {
+          "src": "assets/papers/process-models.webp",
+          "loaded": true,
+          "naturalWidth": 1536,
+          "naturalHeight": 1024,
+          "widthAttribute": 858,
+          "heightAttribute": 572
+        },
+        {
+          "src": "assets/papers/visual-stream.webp",
+          "loaded": true,
+          "naturalWidth": 1536,
+          "naturalHeight": 1024,
+          "widthAttribute": 858,
+          "heightAttribute": 572
+        },
+        {
+          "src": "assets/papers/protein-structures.webp",
+          "loaded": true,
+          "naturalWidth": 1536,
+          "naturalHeight": 1024,
+          "widthAttribute": 858,
+          "heightAttribute": 572
+        }
+      ],
+      "fullSizeLinks": 14
+    }
+  ],
+  "localReferences": {
+    "checked": 121,
+    "errors": []
+  },
+  "gitDiffCheck": "passed"
+}
